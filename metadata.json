@@ -1,0 +1,8 @@
+{
+    "name": "LumiKeys: Keyboard Backlight Symphony",
+    "description": "Orchestrate your keyboard's luminescence with intuitive backlight controls",
+    "uuid": "lumikeys-backlight-control@rayanprasanna.github.com",
+    "version": 1,
+    "shell-version": ["45", "46", "47"],
+    "url": "https://github.com/rayanprasanna/lumikeys-extension"
+}
